@@ -65,7 +65,7 @@ also have numbered labels on the left or right side which can help people workin
    :numbered: left
    :prim_comp: GENERAL
 
-   The following program should figure out the cost per person for a dinner including the tip. But the blocks have been mixed up.  Drag the blocks from the left and put them in the correct order on the right.  Click the *Check Me* button to check your solution.</p>
+   The following program should figure out the cost per person for a dinner including the tip. But the blocks have been mixed up.  Drag the blocks from the left and put them in the correct order on the right.  Click the *Check Me* button to check your solution.
    -----
    bill = 89.23
    =====
